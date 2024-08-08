@@ -1,1 +1,2 @@
 # Steam
+This project was an assigned final project for Communication of Data, a course I completed during my Master of Science candidacy at UNH. We were tasked with finding a dataset and creating meaningful insights from that dataset. My team and I chose to work with a Steam games dataset, and compared the performance of topselling video game Grand Theft Auto V to two other comparable successful games on Steam: PlayerUnkownBattleGrounds and Rocket League.
